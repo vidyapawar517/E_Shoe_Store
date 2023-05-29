@@ -1,2 +1,2 @@
 # E_Shoe_Store
-Online shoe shop
+Online shoe shop website using HTML and CSS 
